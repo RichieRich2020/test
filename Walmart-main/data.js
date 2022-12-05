@@ -3,7 +3,7 @@
 let product = [
   {
     idd: 1,
-    Product_Name: 'Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack',
+    Product_Name: 'Coca-Co0la Soda Soft Drink, 16.9 fl oz, 6 Pack',
     Product_imgUrl:
       'https://i5.walmartimages.com/asr/3e59ef41-fe9e-461a-9c06-176b056db393.6399bcde10eebb9c62c9547e368be4d4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF',
     Product_img1:
